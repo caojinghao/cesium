@@ -25,7 +25,7 @@ console.log(Cesium)
         requestWaterMask: true,
         requestVertexNormals: true
       },
-    )
+    ) 
   });
   // const position=Cesium.Cartesian3.fromDegrees(113.3191,23.109,2000)
   // viewer.camera.flyTo({
